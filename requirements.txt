@@ -1,0 +1,5 @@
+streamlit
+pandas
+psutil
+python-dotenv
+watchdog
